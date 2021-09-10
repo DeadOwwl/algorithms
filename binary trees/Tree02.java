@@ -1,4 +1,3 @@
-/*
 import java.io.*;
 import javafx.application.Application;
 import javafx.stage.Stage;
@@ -177,4 +176,4 @@ public class Tree02 implements Runnable{
             }
         }
     }
-}*/
+}
