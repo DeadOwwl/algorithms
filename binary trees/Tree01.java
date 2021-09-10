@@ -1,4 +1,3 @@
-/*
 import java.io.*;
 import javafx.application.Application;
 import javafx.stage.Stage;
@@ -100,4 +99,4 @@ public class Tree01 implements Runnable{
             e.printStackTrace();
         }
     }
-}*/
+}
